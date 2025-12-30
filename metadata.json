@@ -1,0 +1,8 @@
+{
+  "name": "Creative Designer Portfolio",
+  "description": "A high-end, editorial-style UI/UX designer portfolio inspired by modern design journals and creative manuals, featuring an interactive AI design assistant.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
